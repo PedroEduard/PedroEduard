@@ -1,10 +1,5 @@
-# Olá!! Eu sou Pedro Eduardo 👋
-
-
-**PedroEduard/Pedroeduard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# Olá!! Eu sou Pedro Eduardo 👋 
+###
 - 🌱 Estudando FullStack na DIO
 <div align = "centro" >
   <a href="https://github.com/rafaballerini">
@@ -18,6 +13,7 @@ Here are some ideas to get you started:
 <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
   <img align="right" alt="Rafa-pic" height="250" width="150"  src="https://user-images.githubusercontent.com/77693375/153690632-bd4e8a95-075b-46dc-b914-bf0f477fd9cb.png">
+  
 </div>
   
   ##
