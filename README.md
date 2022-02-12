@@ -1,4 +1,4 @@
-# Olá!! Eu sou Pedro Eduardo 👋 # Olá!! Eu sou Pedro Eduardo 👋 
+# Olá!! Eu sou Pedro Eduardo 👋 
 ###
 - 🌱Atualmente Estou estudando Fullstack na DIO
 <div align = "centro" >
