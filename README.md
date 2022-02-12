@@ -1,6 +1,6 @@
 # Olá!! Eu sou Pedro Eduardo 👋 
 ###
-- 🌱 Estudando FullStack na DIO
+- 🌱Atualmente Estou estudando Fullstack na DIO
 <div align = "centro" >
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEduard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
