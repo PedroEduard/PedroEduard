@@ -1,8 +1,8 @@
-# Olá!! Eu sou Pedro Eduardo 👋 
+# Olá!! Eu sou Pedro Eduardo 👋 # Olá!! Eu sou Pedro Eduardo 👋 
 ###
 - 🌱Atualmente Estou estudando Fullstack na DIO
 <div align = "centro" >
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/PedroEduard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEduard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroEduard&layout=compact&langs_count=7&theme=dracula"/>
 </div>
