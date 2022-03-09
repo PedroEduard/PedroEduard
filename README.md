@@ -22,7 +22,7 @@
 <div> 
   
   <a href = "mailto:pedro2003edu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-eduardo-3309021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedro-eduardo%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB-3309021b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/PedroEduard/PedroEduard/blob/output/github-contribution-grid-snake.svg)
  
