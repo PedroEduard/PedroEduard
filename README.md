@@ -1,6 +1,7 @@
 # Olá!! Eu sou Pedro Eduardo 👋 
 ###
-- 🌱Atualmente Estou  Estudando Fullstack na DIO 📚
+- 🌱Atualmente estou  estudando bootcamps e fazendo alguns projetos para estar repassando melhor o meu aprendizado e estar resolvendo coisas mais complexas 📚
+<br>
 <div align = "centro" >
   <a href="https://github.com/PedroEduard">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroEduard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,4 +27,5 @@
  
   ![Snake animation](https://github.com/PedroEduard/PedroEduard/blob/output/github-contribution-grid-snake.svg)
  
+</div>
 </div>
