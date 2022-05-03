@@ -1,6 +1,6 @@
 # Olá!! Eu sou Pedro Eduardo 👋 
 ###
-- 🌱Atualmente estou  estudando bootcamps e fazendo alguns projetos para estar repassando melhor o meu aprendizado e estar resolvendo pojetos mais complexas 📚
+- 🌱Atualmente estou  estudando bootcamps e fazendo alguns projetos para estar repassando melhorando o meu aprendizado e estar resolvendo pojetos mais complexas 📚
 <br>
 <div align = "centro" >
   <a href="https://github.com/PedroEduard">
